@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1EFMzriWcQ4U3oBdwozmhBbybR57uBCZ_" width="200px" alt="Aditya Varma" />
+</p>
+
 <h1 align="center">Hi 👋 I'm Aditya Varma</h1>
 <h3 align="center">Web Developer | Photographer | Video & Photo Editor 🎥📸</h3>
 
----
+
 
 🌱 Currently learning **HTML, CSS & JavaScript**  
 🎨 Passionate about **Photography, Video Editing & Photo Editing**  
